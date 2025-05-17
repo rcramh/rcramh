@@ -1,7 +1,7 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)]([https://rishavchanda.io](https://portfolio-rcramh.vercel.app/))
 
 <h1 align="center">Hi 👋, I'm Rahul Chaubey</h1>
-<h3 align="center">A passionate React developer from India</h3>
+<h3 align="center">A passionate Full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rcramh&label=Profile%20views&color=0e75b6&style=flat" alt="rcramh" /> </p>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
