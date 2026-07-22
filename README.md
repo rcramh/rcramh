@@ -1,22 +1,23 @@
 <p align="center">
-  <img src="./banner.png" width="100%" alt="Rahul Chaubey Banner"/>
+  <img src="./banner.png" width="100%" alt="Rahul Chaubey Banner" />
 </p>
 
-# Hi, I'm Rahul Chaubey 👋
+# Rahul Chaubey
 
-Senior Frontend Engineer with **5+ years** of experience building scalable, high-performance web applications using **React.js** and **TypeScript**.
+Senior Frontend Engineer with **5+ years** of experience building scalable, high-performance web applications using **React.js** and **TypeScript**. Passionate about frontend architecture, performance optimization, and real-time systems.
 
-## 🚀 What I work on
+## Tech Focus
 
 - React.js
 - TypeScript
+- JavaScript
 - Frontend Architecture
 - Performance Optimization
 - Real-time Systems
-- Accessibility
+- Accessibility (a11y)
 - Jest & React Testing Library
 
-## 🌟 Featured Projects
+## Featured Projects
 
 - React Machine Coding
 - Frontend Engineering Playground
@@ -24,8 +25,10 @@ Senior Frontend Engineer with **5+ years** of experience building scalable, high
 - Real-time Dashboard
 - Portfolio
 
-## 🌐 Connect
+## Connect
 
-- Portfolio: https://portfolio-rcramh.vercel.app/
-- LinkedIn: https://linkedin.com/in/rahulchaubey
-- Email: rahulchaubeynitj@gmail.com
+Portfolio: https://portfolio-rcramh.vercel.app
+
+LinkedIn: https://linkedin.com/in/rahulchaubey
+
+Email: rahulchaubeynitj@gmail.com
