@@ -1,4 +1,3 @@
-![Rahul Chaubey](./banner.png)
 
 # Rahul Chaubey
 
