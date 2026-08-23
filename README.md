@@ -4,7 +4,7 @@
 
 # Rahul Chaubey
 
-Senior Frontend Engineer with **5+ years** of experience building scalable, high-performance web applications using **React.js** and **TypeScript**. Passionate about frontend architecture, performance optimization, and real-time systems.
+Senior Full stack Engineer with **5+ years** of experience building scalable, high-performance web applications using **React.js** and **TypeScript** and **Node.js**. Passionate about frontend architecture, performance optimization, and real-time systems.
 
 ## Tech Focus
 
@@ -27,7 +27,7 @@ Senior Frontend Engineer with **5+ years** of experience building scalable, high
 
 ## Connect
 
-Portfolio: https://portfolio-rcramh.vercel.app
+Portfolio: https://rahulchaubey.vercel.app/
 
 LinkedIn: https://linkedin.com/in/rahulchaubey
 
