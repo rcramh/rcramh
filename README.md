@@ -1,4 +1,3 @@
-![Rahul Chaubey](./banner.png)
 
 ### Senior Software Engineer, Full Stack
 
