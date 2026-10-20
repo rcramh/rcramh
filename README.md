@@ -1,7 +1,7 @@
 
 ### Senior Software Engineer, Full Stack
 
-Building React and Node.js systems at **DTDC Express**. Previously **Nielsen (Gracenote)** and **Micron Technology**.
+Building React and Spring Boot, Node.js systems at **DTDC Express**. Previously **Nielsen (Gracenote)** and **Micron Technology**.
 
 Right now I work on real-time logistics infrastructure tracking 90K+ riders across India. Most of my time goes to frontend architecture, WebSocket systems, and making slow things fast.
 
