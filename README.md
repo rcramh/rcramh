@@ -6,8 +6,8 @@ Building React and Node.js systems at **DTDC Express**. Previously **Nielsen (Gr
 Right now I work on real-time logistics infrastructure tracking 90K+ riders across India. Most of my time goes to frontend architecture, WebSocket systems, and making slow things fast.
 
 ```
-React · TypeScript · Node.js · Express · MongoDB · Redux
-Micro Frontends (Single SPA) · WebSocket · Core Web Vitals · Jest
+Java · Spring Boot · React · TypeScript · Node.js · Express · PostgreSQL · MongoDB · Redux
+Micro Frontends (Single SPA) · Microservices ·Distributed Systems · WebSocket · Core Web Vitals · Jest
 ```
 
 ### Recent work
